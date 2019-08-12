@@ -1,9 +1,19 @@
-Simple React App  Count Star
+# Simple React App  Count Star
 
-Download App ..
+> Download App ..
+ ```
+        git clone https://github.com/pl2ern4/count_star.git
+ ```       
 
-open folder in git bash
+> open folder in git bash and run given command:
 
-run npm install command, to install all the modules
+```
+      npm run install && npm start
+```
+    
+> Browse URL http://localhost:3000
 
-run npm start to run the app
+
+#### Application can be browsable on [URL](https://pl2ern4.github.io/count_star/)
+
+:+1: Happy Browsing
